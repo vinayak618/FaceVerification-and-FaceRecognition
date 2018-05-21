@@ -1,4 +1,4 @@
-# FaceVerification-and-FaceRecognition
+# FaceVerification-and-FaceRecognition (CNN Part 4)
 Welcome to the Happy House! Here you will build a face recognition system, which is the extension of Part 3 of CNN series, The HappyHouse.
 
 #### Face recognition problems commonly fall into two categories:
